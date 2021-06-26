@@ -10,7 +10,7 @@
 [gh-pages/answers](https://yandex-prakticumnko.github.io/BBBS/answers)
 
 
-##gh-pages partials
+#gh-pages partials
 
 [gh-pages/footer](https://yandex-prakticumnko.github.io/BBBS/footer)
 
