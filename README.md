@@ -6,12 +6,12 @@
 * Адаптивная верстка desktop first
 * Grid layout
 * Файловая структура по БЭМ
-## Планы по доработке
+**Планы по доработке**
 * Завершение верстки всех страниц
 * "Оживление" сайта с помощью React.js
 * Бэкенд на Node.js
 
-## gh-pages
+**GH-pages**
 
 [gh-pages](https://yandex-prakticumnko.github.io/BBBS/)
 
